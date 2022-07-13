@@ -36,4 +36,4 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 ###   Author:
 
-    BY [Firaol Asrat](https://github.com/firaolw)
+    BY: [Firaol Asrat](https://github.com/firaolw)
