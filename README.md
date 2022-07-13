@@ -34,6 +34,6 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
     stack - Sets the format of the data to a stack (LIFO). This is the default behavior of the program.
     queue - Sets the format of the data to a queue (FIFO).
 
-###   Authors:
+###   Author:
 
-    BY FIRAOL ASRAT
+    BY [Firaol Asrat](https://github.com/firaolw)
